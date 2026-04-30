@@ -1,0 +1,6 @@
+wid_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: wid.duckdb

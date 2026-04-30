@@ -1,0 +1,645 @@
+variable_code,category,type,region
+sptinc_z_CH,Pre-tax national income,Top 1% | share,Switzerland
+sptinc_z_US-NV,Pre-tax national income,Top 1% | share,Nevada
+sptinc_z_PW,Pre-tax national income,Top 1% | share,Palau
+sptinc_z_UY,Pre-tax national income,Top 1% | share,Uruguay
+sptinc_z_KI,Pre-tax national income,Top 1% | share,Kiribati
+sptinc_z_GN,Pre-tax national income,Top 1% | share,Guinea
+sptinc_z_SY,Pre-tax national income,Top 1% | share,Syrian Arab Republic
+sptinc_z_OE-MER,Pre-tax national income,Top 1% | share,Other MENA (MER)
+sptinc_z_MW,Pre-tax national income,Top 1% | share,Malawi
+sptinc_z_MN,Pre-tax national income,Top 1% | share,Mongolia
+sptinc_z_US-CT,Pre-tax national income,Top 1% | share,Connecticut
+sptinc_z_US-OR,Pre-tax national income,Top 1% | share,Oregon
+sptinc_z_SK,Pre-tax national income,Top 1% | share,Slovakia
+sptinc_z_LI,Pre-tax national income,Top 1% | share,Liechtenstein
+sptinc_z_ZM,Pre-tax national income,Top 1% | share,Zambia
+sptinc_z_ER,Pre-tax national income,Top 1% | share,Eritrea
+sptinc_z_KE,Pre-tax national income,Top 1% | share,Kenya
+sptinc_z_IE,Pre-tax national income,Top 1% | share,Ireland
+sptinc_z_PA,Pre-tax national income,Top 1% | share,Panama
+sptinc_z_GT,Pre-tax national income,Top 1% | share,Guatemala
+sptinc_z_US-NE,Pre-tax national income,Top 1% | share,Nebraska
+sptinc_z_AE,Pre-tax national income,Top 1% | share,United Arab Emirates
+sptinc_z_ST,Pre-tax national income,Top 1% | share,Sao Tome and Principe
+sptinc_z_US-MD,Pre-tax national income,Top 1% | share,Maryland
+sptinc_z_US-VT,Pre-tax national income,Top 1% | share,Vermont
+sptinc_z_OJ-MER,Pre-tax national income,Top 1% | share,Other Sub-Saharan Africa (MER)
+sptinc_z_OA-PPP,Pre-tax national income,Top 1% | share,Other Russia & Central Asia (PPP)
+sptinc_z_US-MO,Pre-tax national income,Top 1% | share,Missouri
+sptinc_z_OH-PPP,Pre-tax national income,Top 1% | share,Other North America & Oceania (PPP)
+sptinc_z_LT,Pre-tax national income,Top 1% | share,Lithuania
+sptinc_z_TV,Pre-tax national income,Top 1% | share,Tuvalu
+sptinc_z_DE,Pre-tax national income,Top 1% | share,Germany
+sptinc_z_JP,Pre-tax national income,Top 1% | share,Japan
+sptinc_z_GR,Pre-tax national income,Top 1% | share,Greece
+sptinc_z_US-SD,Pre-tax national income,Top 1% | share,South Dakota
+sptinc_z_MZ,Pre-tax national income,Top 1% | share,Mozambique
+sptinc_z_TJ,Pre-tax national income,Top 1% | share,Tajikistan
+sptinc_z_US-IN,Pre-tax national income,Top 1% | share,Indiana
+sptinc_z_OE-PPP,Pre-tax national income,Top 1% | share,Other MENA (PPP)
+sptinc_z_NG,Pre-tax national income,Top 1% | share,Nigeria
+sptinc_z_OC-MER,Pre-tax national income,Top 1% | share,Other Western Europe (MER)
+sptinc_z_QL-PPP,Pre-tax national income,Top 1% | share,East Asia (PPP)
+sptinc_z_OK-PPP,Pre-tax national income,Top 1% | share,Other North America (PPP)
+sptinc_z_WS,Pre-tax national income,Top 1% | share,Samoa
+sptinc_z_CN,Pre-tax national income,Top 1% | share,China
+sptinc_z_ET,Pre-tax national income,Top 1% | share,Ethiopia
+sptinc_z_JO,Pre-tax national income,Top 1% | share,Jordan
+sptinc_z_GI,Pre-tax national income,Top 1% | share,Gibraltar
+sptinc_z_MC,Pre-tax national income,Top 1% | share,Monaco
+sptinc_z_KR,Pre-tax national income,Top 1% | share,Korea
+sptinc_z_BS,Pre-tax national income,Top 1% | share,Bahamas
+sptinc_z_QM-PPP,Pre-tax national income,Top 1% | share,Eastern Europe (PPP)
+sptinc_z_SV,Pre-tax national income,Top 1% | share,El Salvador
+sptinc_z_CI,Pre-tax national income,Top 1% | share,Cote d’Ivoire
+sptinc_z_NA,Pre-tax national income,Top 1% | share,Namibia
+sptinc_z_US-KY,Pre-tax national income,Top 1% | share,Kentucky
+sptinc_z_SS,Pre-tax national income,Top 1% | share,South Sudan
+sptinc_z_KH,Pre-tax national income,Top 1% | share,Cambodia
+sptinc_z_DE-HE,Pre-tax national income,Top 1% | share,Hesse
+sptinc_z_MT,Pre-tax national income,Top 1% | share,Malta
+sptinc_z_MR,Pre-tax national income,Top 1% | share,Mauritania
+sptinc_z_QE-PPP,Pre-tax national income,Top 1% | share,Europe (PPP)
+sptinc_z_WO-PPP,Pre-tax national income,Top 1% | share,World (PPP)
+sptinc_z_RU,Pre-tax national income,Top 1% | share,Russian Federation
+sptinc_z_US-ME,Pre-tax national income,Top 1% | share,Maine
+sptinc_z_US-PA,Pre-tax national income,Top 1% | share,Pennsylvania
+sptinc_z_MU,Pre-tax national income,Top 1% | share,Mauritius
+sptinc_z_US-AK,Pre-tax national income,Top 1% | share,Alaska
+sptinc_z_BG,Pre-tax national income,Top 1% | share,Bulgaria
+sptinc_z_US-IA,Pre-tax national income,Top 1% | share,Iowa
+sptinc_z_VG,Pre-tax national income,Top 1% | share,British Virgin Islands
+sptinc_z_QP-PPP,Pre-tax national income,Top 1% | share,North America (PPP)
+sptinc_z_DE-WU,Pre-tax national income,Top 1% | share,Württemberg
+sptinc_z_BQ,Pre-tax national income,Top 1% | share,"Bonaire, Sint Eustatius and Saba"
+sptinc_z_PS,Pre-tax national income,Top 1% | share,Palestine
+sptinc_z_HU,Pre-tax national income,Top 1% | share,Hungary
+sptinc_z_US-RI,Pre-tax national income,Top 1% | share,Rhode Island
+sptinc_z_CN-UR,Pre-tax national income,Top 1% | share,Urban China
+sptinc_z_LS,Pre-tax national income,Top 1% | share,Lesotho
+sptinc_z_OD-MER,Pre-tax national income,Top 1% | share,Other Latin America (MER)
+sptinc_z_BO,Pre-tax national income,Top 1% | share,Bolivia
+sptinc_z_SR,Pre-tax national income,Top 1% | share,Suriname
+sptinc_z_UZ,Pre-tax national income,Top 1% | share,Uzbekistan
+sptinc_z_LB,Pre-tax national income,Top 1% | share,Lebanon
+sptinc_z_BA,Pre-tax national income,Top 1% | share,Bosnia and Herzegovina
+sptinc_z_US-TX,Pre-tax national income,Top 1% | share,Texas
+sptinc_z_US-ND,Pre-tax national income,Top 1% | share,North Dakota
+sptinc_z_EG,Pre-tax national income,Top 1% | share,Egypt
+sptinc_z_CM,Pre-tax national income,Top 1% | share,Cameroon
+sptinc_z_US-NM,Pre-tax national income,Top 1% | share,New Mexico
+sptinc_z_BM,Pre-tax national income,Top 1% | share,Bermuda
+sptinc_z_GL,Pre-tax national income,Top 1% | share,Greenland
+sptinc_z_IN,Pre-tax national income,Top 1% | share,India
+sptinc_z_IT,Pre-tax national income,Top 1% | share,Italy
+sptinc_z_US-MI,Pre-tax national income,Top 1% | share,Michigan
+sptinc_z_IM,Pre-tax national income,Top 1% | share,Isle of Man
+sptinc_z_BH,Pre-tax national income,Top 1% | share,Bahrain
+sptinc_z_US-GA,Pre-tax national income,Top 1% | share,Georgia (US)
+sptinc_z_CA,Pre-tax national income,Top 1% | share,Canada
+sptinc_z_OI-PPP,Pre-tax national income,Top 1% | share,Other South & Southeast Asia (PPP)
+sptinc_z_SA,Pre-tax national income,Top 1% | share,Saudi Arabia
+sptinc_z_OB-PPP,Pre-tax national income,Top 1% | share,Other East Asia (PPP)
+sptinc_z_QE-MER,Pre-tax national income,Top 1% | share,Europe (MER)
+sptinc_z_US-OH,Pre-tax national income,Top 1% | share,Ohio
+sptinc_z_DZ,Pre-tax national income,Top 1% | share,Algeria
+sptinc_z_AT,Pre-tax national income,Top 1% | share,Austria
+sptinc_z_HN,Pre-tax national income,Top 1% | share,Honduras
+sptinc_z_TT,Pre-tax national income,Top 1% | share,Trinidad and Tobago
+sptinc_z_OB-MER,Pre-tax national income,Top 1% | share,Other East Asia (MER)
+sptinc_z_ZA,Pre-tax national income,Top 1% | share,South Africa
+sptinc_z_CN-RU,Pre-tax national income,Top 1% | share,Rural China
+sptinc_z_US-HI,Pre-tax national income,Top 1% | share,Hawaii
+sptinc_z_BT,Pre-tax national income,Top 1% | share,Bhutan
+sptinc_z_US-TN,Pre-tax national income,Top 1% | share,Tennessee
+sptinc_z_US-AL,Pre-tax national income,Top 1% | share,Alabama
+sptinc_z_GA,Pre-tax national income,Top 1% | share,Gabon
+sptinc_z_CR,Pre-tax national income,Top 1% | share,Costa Rica
+sptinc_z_LC,Pre-tax national income,Top 1% | share,Saint Lucia
+sptinc_z_US-DC,Pre-tax national income,Top 1% | share,Washington D.C.
+sptinc_z_QF-PPP,Pre-tax national income,Top 1% | share,Oceania (PPP)
+sptinc_z_RW,Pre-tax national income,Top 1% | share,Rwanda
+sptinc_z_UG,Pre-tax national income,Top 1% | share,Uganda
+sptinc_z_ME,Pre-tax national income,Top 1% | share,Montenegro
+sptinc_z_NP,Pre-tax national income,Top 1% | share,Nepal
+sptinc_z_US-NY,Pre-tax national income,Top 1% | share,New York
+sptinc_z_ES,Pre-tax national income,Top 1% | share,Spain
+sptinc_z_AW,Pre-tax national income,Top 1% | share,Aruba
+sptinc_z_OL-MER,Pre-tax national income,Top 1% | share,Other Oceania (MER)
+sptinc_z_HT,Pre-tax national income,Top 1% | share,Haiti
+sptinc_z_AG,Pre-tax national income,Top 1% | share,Antigua and Barbuda
+sptinc_z_VC,Pre-tax national income,Top 1% | share,Saint Vincent and the Grenadines
+sptinc_z_SO,Pre-tax national income,Top 1% | share,Somalia
+sptinc_z_DD,Pre-tax national income,Top 1% | share,German Democratic Republic
+sptinc_z_US-AZ,Pre-tax national income,Top 1% | share,Arizona
+sptinc_z_TO,Pre-tax national income,Top 1% | share,Tonga
+sptinc_z_DO,Pre-tax national income,Top 1% | share,Dominican Republic
+sptinc_z_US-NC,Pre-tax national income,Top 1% | share,North Carolina
+sptinc_z_KW,Pre-tax national income,Top 1% | share,Kuwait
+sptinc_z_KS,Pre-tax national income,Top 1% | share,Kosovo
+sptinc_z_OL-PPP,Pre-tax national income,Top 1% | share,Other Oceania (PPP)
+sptinc_z_US-MA,Pre-tax national income,Top 1% | share,Massachusetts
+sptinc_z_DE-HH,Pre-tax national income,Top 1% | share,Hamburg
+sptinc_z_XB-PPP,Pre-tax national income,Top 1% | share,North America & Oceania (PPP)
+sptinc_z_BY,Pre-tax national income,Top 1% | share,Belarus
+sptinc_z_QM-MER,Pre-tax national income,Top 1% | share,Eastern Europe (MER)
+sptinc_z_MH,Pre-tax national income,Top 1% | share,Marshall Islands
+sptinc_z_HR,Pre-tax national income,Top 1% | share,Croatia
+sptinc_z_AF,Pre-tax national income,Top 1% | share,Afghanistan
+sptinc_z_AZ,Pre-tax national income,Top 1% | share,Azerbaijan
+sptinc_z_GW,Pre-tax national income,Top 1% | share,Guinea-Bissau
+sptinc_z_PY,Pre-tax national income,Top 1% | share,Paraguay
+sptinc_z_CW,Pre-tax national income,Top 1% | share,Curacao
+sptinc_z_US-FL,Pre-tax national income,Top 1% | share,Florida
+sptinc_z_OI-MER,Pre-tax national income,Top 1% | share,Other South & Southeast Asia (MER)
+sptinc_z_NL,Pre-tax national income,Top 1% | share,Netherlands
+sptinc_z_OA-MER,Pre-tax national income,Top 1% | share,Other Russia & Central Asia (MER)
+sptinc_z_GH,Pre-tax national income,Top 1% | share,Ghana
+sptinc_z_TG,Pre-tax national income,Top 1% | share,Togo
+sptinc_z_US-KS,Pre-tax national income,Top 1% | share,Kansas
+sptinc_z_LK,Pre-tax national income,Top 1% | share,Sri Lanka
+sptinc_z_NI,Pre-tax national income,Top 1% | share,Nicaragua
+sptinc_z_YE,Pre-tax national income,Top 1% | share,Yemen
+sptinc_z_GM,Pre-tax national income,Top 1% | share,Gambia
+sptinc_z_US-NJ,Pre-tax national income,Top 1% | share,New Jersey
+sptinc_z_US-WA,Pre-tax national income,Top 1% | share,Washington
+sptinc_z_US-AR,Pre-tax national income,Top 1% | share,Arkansas
+sptinc_z_US,Pre-tax national income,Top 1% | share,USA
+sptinc_z_TD,Pre-tax national income,Top 1% | share,Chad
+sptinc_z_ZW,Pre-tax national income,Top 1% | share,Zimbabwe
+sptinc_z_SC,Pre-tax national income,Top 1% | share,Seychelles
+sptinc_z_RO,Pre-tax national income,Top 1% | share,Romania
+sptinc_z_BZ,Pre-tax national income,Top 1% | share,Belize
+sptinc_z_XL-PPP,Pre-tax national income,Top 1% | share,Latin America (PPP)
+sptinc_z_BF,Pre-tax national income,Top 1% | share,Burkina Faso
+sptinc_z_WO-MER,Pre-tax national income,Top 1% | share,World (MER)
+sptinc_z_MV,Pre-tax national income,Top 1% | share,Maldives
+sptinc_z_US-CA,Pre-tax national income,Top 1% | share,California
+sptinc_z_ML,Pre-tax national income,Top 1% | share,Mali
+sptinc_z_HK,Pre-tax national income,Top 1% | share,Hong Kong
+sptinc_z_NZ,Pre-tax national income,Top 1% | share,New Zealand
+sptinc_z_BI,Pre-tax national income,Top 1% | share,Burundi
+sptinc_z_NO,Pre-tax national income,Top 1% | share,Norway
+sptinc_z_DM,Pre-tax national income,Top 1% | share,Dominica
+sptinc_z_US-MT,Pre-tax national income,Top 1% | share,Montana
+sptinc_z_LR,Pre-tax national income,Top 1% | share,Liberia
+sptinc_z_PE,Pre-tax national income,Top 1% | share,Peru
+sptinc_z_XS-MER,Pre-tax national income,Top 1% | share,South & Southeast Asia (MER)
+sptinc_z_BJ,Pre-tax national income,Top 1% | share,Benin
+sptinc_z_GD,Pre-tax national income,Top 1% | share,Grenada
+sptinc_z_OD-PPP,Pre-tax national income,Top 1% | share,Other Latin America (PPP)
+sptinc_z_TZ,Pre-tax national income,Top 1% | share,Tanzania
+sptinc_z_MD,Pre-tax national income,Top 1% | share,Moldova
+sptinc_z_CF,Pre-tax national income,Top 1% | share,Central African Republic
+sptinc_z_BD,Pre-tax national income,Top 1% | share,Bangladesh
+sptinc_z_NR,Pre-tax national income,Top 1% | share,Nauru
+sptinc_z_CL,Pre-tax national income,Top 1% | share,Chile
+sptinc_z_LU,Pre-tax national income,Top 1% | share,Luxembourg
+sptinc_z_US-WV,Pre-tax national income,Top 1% | share,West Virginia
+sptinc_z_CO,Pre-tax national income,Top 1% | share,Colombia
+sptinc_z_MK,Pre-tax national income,Top 1% | share,North Macedonia
+sptinc_z_US-OK,Pre-tax national income,Top 1% | share,Oklahoma
+sptinc_z_AD,Pre-tax national income,Top 1% | share,Andorra
+sptinc_z_BB,Pre-tax national income,Top 1% | share,Barbados
+sptinc_z_XS-PPP,Pre-tax national income,Top 1% | share,South & Southeast Asia (PPP)
+sptinc_z_US-UT,Pre-tax national income,Top 1% | share,Utah
+sptinc_z_SB,Pre-tax national income,Top 1% | share,Solomon Islands
+sptinc_z_MS,Pre-tax national income,Top 1% | share,Montserrat
+sptinc_z_TM,Pre-tax national income,Top 1% | share,Turkmenistan
+sptinc_z_TH,Pre-tax national income,Top 1% | share,Thailand
+sptinc_z_EC,Pre-tax national income,Top 1% | share,Ecuador
+sptinc_z_GB,Pre-tax national income,Top 1% | share,United Kingdom
+sptinc_z_US-VA,Pre-tax national income,Top 1% | share,Virginia
+sptinc_z_IL,Pre-tax national income,Top 1% | share,Israel
+sptinc_z_TW,Pre-tax national income,Top 1% | share,Taiwan
+sptinc_z_SI,Pre-tax national income,Top 1% | share,Slovenia
+sptinc_z_UA,Pre-tax national income,Top 1% | share,Ukraine
+sptinc_z_TR,Pre-tax national income,Top 1% | share,Turkey
+sptinc_z_GY,Pre-tax national income,Top 1% | share,Guyana
+sptinc_z_RS,Pre-tax national income,Top 1% | share,Serbia
+sptinc_z_BN,Pre-tax national income,Top 1% | share,Brunei Darussalam
+sptinc_z_VN,Pre-tax national income,Top 1% | share,Viet Nam
+sptinc_z_CU,Pre-tax national income,Top 1% | share,Cuba
+sptinc_z_QA,Pre-tax national income,Top 1% | share,Qatar
+sptinc_z_DE-BD,Pre-tax national income,Top 1% | share,Baden
+sptinc_z_SZ,Pre-tax national income,Top 1% | share,Swaziland
+sptinc_z_MM,Pre-tax national income,Top 1% | share,Myanmar
+sptinc_z_US-LA,Pre-tax national income,Top 1% | share,Louisiana
+sptinc_z_CV,Pre-tax national income,Top 1% | share,Cabo Verde
+sptinc_z_DJ,Pre-tax national income,Top 1% | share,Djibouti
+sptinc_z_NC,Pre-tax national income,Top 1% | share,New Caledonia
+sptinc_z_SM,Pre-tax national income,Top 1% | share,San Marino
+sptinc_z_XF-MER,Pre-tax national income,Top 1% | share,Sub-Saharan Africa (MER)
+sptinc_z_FJ,Pre-tax national income,Top 1% | share,Fiji
+sptinc_z_DE-BY,Pre-tax national income,Top 1% | share,Bavaria
+sptinc_z_QL-MER,Pre-tax national income,Top 1% | share,East Asia (MER)
+sptinc_z_DE-SN,Pre-tax national income,Top 1% | share,Saxony
+sptinc_z_IR,Pre-tax national income,Top 1% | share,Iran
+sptinc_z_PT,Pre-tax national income,Top 1% | share,Portugal
+sptinc_z_US-IL,Pre-tax national income,Top 1% | share,Illinois
+sptinc_z_TL,Pre-tax national income,Top 1% | share,Timor-Leste
+sptinc_z_XN-PPP,Pre-tax national income,Top 1% | share,MENA (PPP)
+sptinc_z_XB-MER,Pre-tax national income,Top 1% | share,North America & Oceania (MER)
+sptinc_z_SE,Pre-tax national income,Top 1% | share,Sweden
+sptinc_z_XR-PPP,Pre-tax national income,Top 1% | share,Russia & Central Asia (PPP)
+sptinc_z_LA,Pre-tax national income,Top 1% | share,Lao PDR
+sptinc_z_SL,Pre-tax national income,Top 1% | share,Sierra Leone
+sptinc_z_OK-MER,Pre-tax national income,Top 1% | share,Other North America (MER)
+sptinc_z_US-MN,Pre-tax national income,Top 1% | share,Minnesota
+sptinc_z_MY,Pre-tax national income,Top 1% | share,Malaysia
+sptinc_z_TC,Pre-tax national income,Top 1% | share,Turks and Caicos Islands
+sptinc_z_DE-PR,Pre-tax national income,Top 1% | share,Prussia
+sptinc_z_JM,Pre-tax national income,Top 1% | share,Jamaica
+sptinc_z_NE,Pre-tax national income,Top 1% | share,Niger
+sptinc_z_XR-MER,Pre-tax national income,Top 1% | share,Russia & Central Asia (MER)
+sptinc_z_AL,Pre-tax national income,Top 1% | share,Albania
+sptinc_z_KZ,Pre-tax national income,Top 1% | share,Kazakhstan
+sptinc_z_US-CO,Pre-tax national income,Top 1% | share,Colorado
+sptinc_z_US-ID,Pre-tax national income,Top 1% | share,Idaho
+sptinc_z_PH,Pre-tax national income,Top 1% | share,Philippines
+sptinc_z_DE-HB,Pre-tax national income,Top 1% | share,Bremen
+sptinc_z_FR,Pre-tax national income,Top 1% | share,France
+sptinc_z_IQ,Pre-tax national income,Top 1% | share,Iraq
+sptinc_z_OM,Pre-tax national income,Top 1% | share,Oman
+sptinc_z_VU,Pre-tax national income,Top 1% | share,Vanuatu
+sptinc_z_KP,Pre-tax national income,Top 1% | share,North Korea
+sptinc_z_XN-MER,Pre-tax national income,Top 1% | share,MENA (MER)
+sptinc_z_US-MS,Pre-tax national income,Top 1% | share,Mississippi
+sptinc_z_XL-MER,Pre-tax national income,Top 1% | share,Latin America (MER)
+sptinc_z_LY,Pre-tax national income,Top 1% | share,Libya
+sptinc_z_CY,Pre-tax national income,Top 1% | share,Cyprus
+sptinc_z_US-WY,Pre-tax national income,Top 1% | share,Wyoming
+sptinc_z_AR,Pre-tax national income,Top 1% | share,Argentina
+sptinc_z_JE,Pre-tax national income,Top 1% | share,Jersey
+sptinc_z_OJ-PPP,Pre-tax national income,Top 1% | share,Other Sub-Saharan Africa (PPP)
+sptinc_z_BR,Pre-tax national income,Top 1% | share,Brazil
+sptinc_z_SX,Pre-tax national income,Top 1% | share,Sint Maarten (Dutch part)
+sptinc_z_PK,Pre-tax national income,Top 1% | share,Pakistan
+sptinc_z_GG,Pre-tax national income,Top 1% | share,Guernsey
+sptinc_z_KN,Pre-tax national income,Top 1% | share,Saint Kitts and Nevis
+sptinc_z_AO,Pre-tax national income,Top 1% | share,Angola
+sptinc_z_US-SC,Pre-tax national income,Top 1% | share,South Carolina
+sptinc_z_PF,Pre-tax national income,Top 1% | share,French Polynesia
+sptinc_z_FI,Pre-tax national income,Top 1% | share,Finland
+sptinc_z_TN,Pre-tax national income,Top 1% | share,Tunisia
+sptinc_z_SD,Pre-tax national income,Top 1% | share,Sudan
+sptinc_z_US-DE,Pre-tax national income,Top 1% | share,Delaware
+sptinc_z_LV,Pre-tax national income,Top 1% | share,Latvia
+sptinc_z_MX,Pre-tax national income,Top 1% | share,Mexico
+sptinc_z_KM,Pre-tax national income,Top 1% | share,Comoros
+sptinc_z_IS,Pre-tax national income,Top 1% | share,Iceland
+sptinc_z_QP-MER,Pre-tax national income,Top 1% | share,North America (MER)
+sptinc_z_US-WI,Pre-tax national income,Top 1% | share,Wisconsin
+sptinc_z_CZ,Pre-tax national income,Top 1% | share,Czech Republic
+sptinc_z_BW,Pre-tax national income,Top 1% | share,Botswana
+sptinc_z_KY,Pre-tax national income,Top 1% | share,Cayman Islands
+sptinc_z_GE,Pre-tax national income,Top 1% | share,Georgia
+sptinc_z_MA,Pre-tax national income,Top 1% | share,Morocco
+sptinc_z_KG,Pre-tax national income,Top 1% | share,Kyrgyzstan
+sptinc_z_VE,Pre-tax national income,Top 1% | share,Venezuela
+sptinc_z_FM,Pre-tax national income,Top 1% | share,Micronesia
+sptinc_z_AM,Pre-tax national income,Top 1% | share,Armenia
+sptinc_z_AU,Pre-tax national income,Top 1% | share,Australia
+sptinc_z_CG,Pre-tax national income,Top 1% | share,Congo
+sptinc_z_BE,Pre-tax national income,Top 1% | share,Belgium
+sptinc_z_US-NH,Pre-tax national income,Top 1% | share,New Hampshire
+sptinc_z_OH-MER,Pre-tax national income,Top 1% | share,Other North America & Oceania (MER)
+sptinc_z_SG,Pre-tax national income,Top 1% | share,Singapore
+sptinc_z_MO,Pre-tax national income,Top 1% | share,Macao
+sptinc_z_DK,Pre-tax national income,Top 1% | share,Denmark
+sptinc_z_GQ,Pre-tax national income,Top 1% | share,Equatorial Guinea
+sptinc_z_SN,Pre-tax national income,Top 1% | share,Senegal
+sptinc_z_AI,Pre-tax national income,Top 1% | share,Anguilla
+sptinc_z_MG,Pre-tax national income,Top 1% | share,Madagascar
+sptinc_z_CD,Pre-tax national income,Top 1% | share,DR Congo
+sptinc_z_PR,Pre-tax national income,Top 1% | share,Puerto Rico
+sptinc_z_PL,Pre-tax national income,Top 1% | share,Poland
+sptinc_z_EE,Pre-tax national income,Top 1% | share,Estonia
+sptinc_z_XF-PPP,Pre-tax national income,Top 1% | share,Sub-Saharan Africa (PPP)
+sptinc_z_OC-PPP,Pre-tax national income,Top 1% | share,Other Western Europe (PPP)
+sptinc_z_PG,Pre-tax national income,Top 1% | share,Papua New Guinea
+sptinc_z_QF-MER,Pre-tax national income,Top 1% | share,Oceania (MER)
+sptinc_z_ID,Pre-tax national income,Top 1% | share,Indonesia
+shweal_z_CH,Net personal wealth,Top 1% | share | adults | equal split,Switzerland
+shweal_z_US-NV,Net personal wealth,Top 1% | share | adults | equal split,Nevada
+shweal_z_PW,Net personal wealth,Top 1% | share | adults | equal split,Palau
+shweal_z_UY,Net personal wealth,Top 1% | share | adults | equal split,Uruguay
+shweal_z_KI,Net personal wealth,Top 1% | share | adults | equal split,Kiribati
+shweal_z_GN,Net personal wealth,Top 1% | share | adults | equal split,Guinea
+shweal_z_SY,Net personal wealth,Top 1% | share | adults | equal split,Syrian Arab Republic
+shweal_z_OE-MER,Net personal wealth,Top 1% | share | adults | equal split,Other MENA (MER)
+shweal_z_MW,Net personal wealth,Top 1% | share | adults | equal split,Malawi
+shweal_z_MN,Net personal wealth,Top 1% | share | adults | equal split,Mongolia
+shweal_z_US-CT,Net personal wealth,Top 1% | share | adults | equal split,Connecticut
+shweal_z_US-OR,Net personal wealth,Top 1% | share | adults | equal split,Oregon
+shweal_z_SK,Net personal wealth,Top 1% | share | adults | equal split,Slovakia
+shweal_z_LI,Net personal wealth,Top 1% | share | adults | equal split,Liechtenstein
+shweal_z_ZM,Net personal wealth,Top 1% | share | adults | equal split,Zambia
+shweal_z_ER,Net personal wealth,Top 1% | share | adults | equal split,Eritrea
+shweal_z_KE,Net personal wealth,Top 1% | share | adults | equal split,Kenya
+shweal_z_IE,Net personal wealth,Top 1% | share | adults | equal split,Ireland
+shweal_z_PA,Net personal wealth,Top 1% | share | adults | equal split,Panama
+shweal_z_GT,Net personal wealth,Top 1% | share | adults | equal split,Guatemala
+shweal_z_US-NE,Net personal wealth,Top 1% | share | adults | equal split,Nebraska
+shweal_z_AE,Net personal wealth,Top 1% | share | adults | equal split,United Arab Emirates
+shweal_z_ST,Net personal wealth,Top 1% | share | adults | equal split,Sao Tome and Principe
+shweal_z_US-MD,Net personal wealth,Top 1% | share | adults | equal split,Maryland
+shweal_z_US-VT,Net personal wealth,Top 1% | share | adults | equal split,Vermont
+shweal_z_OJ-MER,Net personal wealth,Top 1% | share | adults | equal split,Other Sub-Saharan Africa (MER)
+shweal_z_OA-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other Russia & Central Asia (PPP)
+shweal_z_US-MO,Net personal wealth,Top 1% | share | adults | equal split,Missouri
+shweal_z_OH-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other North America & Oceania (PPP)
+shweal_z_LT,Net personal wealth,Top 1% | share | adults | equal split,Lithuania
+shweal_z_TV,Net personal wealth,Top 1% | share | adults | equal split,Tuvalu
+shweal_z_DE,Net personal wealth,Top 1% | share | adults | equal split,Germany
+shweal_z_JP,Net personal wealth,Top 1% | share | adults | equal split,Japan
+shweal_z_GR,Net personal wealth,Top 1% | share | adults | equal split,Greece
+shweal_z_US-SD,Net personal wealth,Top 1% | share | adults | equal split,South Dakota
+shweal_z_MZ,Net personal wealth,Top 1% | share | adults | equal split,Mozambique
+shweal_z_TJ,Net personal wealth,Top 1% | share | adults | equal split,Tajikistan
+shweal_z_US-IN,Net personal wealth,Top 1% | share | adults | equal split,Indiana
+shweal_z_OE-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other MENA (PPP)
+shweal_z_NG,Net personal wealth,Top 1% | share | adults | equal split,Nigeria
+shweal_z_OC-MER,Net personal wealth,Top 1% | share | adults | equal split,Other Western Europe (MER)
+shweal_z_QL-PPP,Net personal wealth,Top 1% | share | adults | equal split,East Asia (PPP)
+shweal_z_OK-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other North America (PPP)
+shweal_z_WS,Net personal wealth,Top 1% | share | adults | equal split,Samoa
+shweal_z_CN,Net personal wealth,Top 1% | share | adults | equal split,China
+shweal_z_ET,Net personal wealth,Top 1% | share | adults | equal split,Ethiopia
+shweal_z_JO,Net personal wealth,Top 1% | share | adults | equal split,Jordan
+shweal_z_GI,Net personal wealth,Top 1% | share | adults | equal split,Gibraltar
+shweal_z_MC,Net personal wealth,Top 1% | share | adults | equal split,Monaco
+shweal_z_KR,Net personal wealth,Top 1% | share | adults | equal split,Korea
+shweal_z_BS,Net personal wealth,Top 1% | share | adults | equal split,Bahamas
+shweal_z_QM-PPP,Net personal wealth,Top 1% | share | adults | equal split,Eastern Europe (PPP)
+shweal_z_SV,Net personal wealth,Top 1% | share | adults | equal split,El Salvador
+shweal_z_CI,Net personal wealth,Top 1% | share | adults | equal split,Cote d’Ivoire
+shweal_z_NA,Net personal wealth,Top 1% | share | adults | equal split,Namibia
+shweal_z_US-KY,Net personal wealth,Top 1% | share | adults | equal split,Kentucky
+shweal_z_SS,Net personal wealth,Top 1% | share | adults | equal split,South Sudan
+shweal_z_KH,Net personal wealth,Top 1% | share | adults | equal split,Cambodia
+shweal_z_DE-HE,Net personal wealth,Top 1% | share | adults | equal split,Hesse
+shweal_z_MT,Net personal wealth,Top 1% | share | adults | equal split,Malta
+shweal_z_MR,Net personal wealth,Top 1% | share | adults | equal split,Mauritania
+shweal_z_QE-PPP,Net personal wealth,Top 1% | share | adults | equal split,Europe (PPP)
+shweal_z_WO-PPP,Net personal wealth,Top 1% | share | adults | equal split,World (PPP)
+shweal_z_RU,Net personal wealth,Top 1% | share | adults | equal split,Russian Federation
+shweal_z_US-ME,Net personal wealth,Top 1% | share | adults | equal split,Maine
+shweal_z_US-PA,Net personal wealth,Top 1% | share | adults | equal split,Pennsylvania
+shweal_z_MU,Net personal wealth,Top 1% | share | adults | equal split,Mauritius
+shweal_z_US-AK,Net personal wealth,Top 1% | share | adults | equal split,Alaska
+shweal_z_BG,Net personal wealth,Top 1% | share | adults | equal split,Bulgaria
+shweal_z_US-IA,Net personal wealth,Top 1% | share | adults | equal split,Iowa
+shweal_z_VG,Net personal wealth,Top 1% | share | adults | equal split,British Virgin Islands
+shweal_z_QP-PPP,Net personal wealth,Top 1% | share | adults | equal split,North America (PPP)
+shweal_z_DE-WU,Net personal wealth,Top 1% | share | adults | equal split,Württemberg
+shweal_z_BQ,Net personal wealth,Top 1% | share | adults | equal split,"Bonaire, Sint Eustatius and Saba"
+shweal_z_PS,Net personal wealth,Top 1% | share | adults | equal split,Palestine
+shweal_z_HU,Net personal wealth,Top 1% | share | adults | equal split,Hungary
+shweal_z_US-RI,Net personal wealth,Top 1% | share | adults | equal split,Rhode Island
+shweal_z_CN-UR,Net personal wealth,Top 1% | share | adults | equal split,Urban China
+shweal_z_LS,Net personal wealth,Top 1% | share | adults | equal split,Lesotho
+shweal_z_OD-MER,Net personal wealth,Top 1% | share | adults | equal split,Other Latin America (MER)
+shweal_z_BO,Net personal wealth,Top 1% | share | adults | equal split,Bolivia
+shweal_z_SR,Net personal wealth,Top 1% | share | adults | equal split,Suriname
+shweal_z_UZ,Net personal wealth,Top 1% | share | adults | equal split,Uzbekistan
+shweal_z_LB,Net personal wealth,Top 1% | share | adults | equal split,Lebanon
+shweal_z_BA,Net personal wealth,Top 1% | share | adults | equal split,Bosnia and Herzegovina
+shweal_z_US-TX,Net personal wealth,Top 1% | share | adults | equal split,Texas
+shweal_z_US-ND,Net personal wealth,Top 1% | share | adults | equal split,North Dakota
+shweal_z_EG,Net personal wealth,Top 1% | share | adults | equal split,Egypt
+shweal_z_CM,Net personal wealth,Top 1% | share | adults | equal split,Cameroon
+shweal_z_US-NM,Net personal wealth,Top 1% | share | adults | equal split,New Mexico
+shweal_z_BM,Net personal wealth,Top 1% | share | adults | equal split,Bermuda
+shweal_z_GL,Net personal wealth,Top 1% | share | adults | equal split,Greenland
+shweal_z_IN,Net personal wealth,Top 1% | share | adults | equal split,India
+shweal_z_IT,Net personal wealth,Top 1% | share | adults | equal split,Italy
+shweal_z_US-MI,Net personal wealth,Top 1% | share | adults | equal split,Michigan
+shweal_z_IM,Net personal wealth,Top 1% | share | adults | equal split,Isle of Man
+shweal_z_BH,Net personal wealth,Top 1% | share | adults | equal split,Bahrain
+shweal_z_US-GA,Net personal wealth,Top 1% | share | adults | equal split,Georgia (US)
+shweal_z_CA,Net personal wealth,Top 1% | share | adults | equal split,Canada
+shweal_z_OI-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other South & Southeast Asia (PPP)
+shweal_z_SA,Net personal wealth,Top 1% | share | adults | equal split,Saudi Arabia
+shweal_z_OB-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other East Asia (PPP)
+shweal_z_QE-MER,Net personal wealth,Top 1% | share | adults | equal split,Europe (MER)
+shweal_z_US-OH,Net personal wealth,Top 1% | share | adults | equal split,Ohio
+shweal_z_DZ,Net personal wealth,Top 1% | share | adults | equal split,Algeria
+shweal_z_AT,Net personal wealth,Top 1% | share | adults | equal split,Austria
+shweal_z_HN,Net personal wealth,Top 1% | share | adults | equal split,Honduras
+shweal_z_TT,Net personal wealth,Top 1% | share | adults | equal split,Trinidad and Tobago
+shweal_z_OB-MER,Net personal wealth,Top 1% | share | adults | equal split,Other East Asia (MER)
+shweal_z_ZA,Net personal wealth,Top 1% | share | adults | equal split,South Africa
+shweal_z_CN-RU,Net personal wealth,Top 1% | share | adults | equal split,Rural China
+shweal_z_US-HI,Net personal wealth,Top 1% | share | adults | equal split,Hawaii
+shweal_z_BT,Net personal wealth,Top 1% | share | adults | equal split,Bhutan
+shweal_z_US-TN,Net personal wealth,Top 1% | share | adults | equal split,Tennessee
+shweal_z_US-AL,Net personal wealth,Top 1% | share | adults | equal split,Alabama
+shweal_z_GA,Net personal wealth,Top 1% | share | adults | equal split,Gabon
+shweal_z_CR,Net personal wealth,Top 1% | share | adults | equal split,Costa Rica
+shweal_z_LC,Net personal wealth,Top 1% | share | adults | equal split,Saint Lucia
+shweal_z_US-DC,Net personal wealth,Top 1% | share | adults | equal split,Washington D.C.
+shweal_z_QF-PPP,Net personal wealth,Top 1% | share | adults | equal split,Oceania (PPP)
+shweal_z_RW,Net personal wealth,Top 1% | share | adults | equal split,Rwanda
+shweal_z_UG,Net personal wealth,Top 1% | share | adults | equal split,Uganda
+shweal_z_ME,Net personal wealth,Top 1% | share | adults | equal split,Montenegro
+shweal_z_NP,Net personal wealth,Top 1% | share | adults | equal split,Nepal
+shweal_z_US-NY,Net personal wealth,Top 1% | share | adults | equal split,New York
+shweal_z_ES,Net personal wealth,Top 1% | share | adults | equal split,Spain
+shweal_z_AW,Net personal wealth,Top 1% | share | adults | equal split,Aruba
+shweal_z_OL-MER,Net personal wealth,Top 1% | share | adults | equal split,Other Oceania (MER)
+shweal_z_HT,Net personal wealth,Top 1% | share | adults | equal split,Haiti
+shweal_z_AG,Net personal wealth,Top 1% | share | adults | equal split,Antigua and Barbuda
+shweal_z_VC,Net personal wealth,Top 1% | share | adults | equal split,Saint Vincent and the Grenadines
+shweal_z_SO,Net personal wealth,Top 1% | share | adults | equal split,Somalia
+shweal_z_DD,Net personal wealth,Top 1% | share | adults | equal split,German Democratic Republic
+shweal_z_US-AZ,Net personal wealth,Top 1% | share | adults | equal split,Arizona
+shweal_z_TO,Net personal wealth,Top 1% | share | adults | equal split,Tonga
+shweal_z_DO,Net personal wealth,Top 1% | share | adults | equal split,Dominican Republic
+shweal_z_US-NC,Net personal wealth,Top 1% | share | adults | equal split,North Carolina
+shweal_z_KW,Net personal wealth,Top 1% | share | adults | equal split,Kuwait
+shweal_z_KS,Net personal wealth,Top 1% | share | adults | equal split,Kosovo
+shweal_z_OL-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other Oceania (PPP)
+shweal_z_US-MA,Net personal wealth,Top 1% | share | adults | equal split,Massachusetts
+shweal_z_DE-HH,Net personal wealth,Top 1% | share | adults | equal split,Hamburg
+shweal_z_XB-PPP,Net personal wealth,Top 1% | share | adults | equal split,North America & Oceania (PPP)
+shweal_z_BY,Net personal wealth,Top 1% | share | adults | equal split,Belarus
+shweal_z_QM-MER,Net personal wealth,Top 1% | share | adults | equal split,Eastern Europe (MER)
+shweal_z_MH,Net personal wealth,Top 1% | share | adults | equal split,Marshall Islands
+shweal_z_HR,Net personal wealth,Top 1% | share | adults | equal split,Croatia
+shweal_z_AF,Net personal wealth,Top 1% | share | adults | equal split,Afghanistan
+shweal_z_AZ,Net personal wealth,Top 1% | share | adults | equal split,Azerbaijan
+shweal_z_GW,Net personal wealth,Top 1% | share | adults | equal split,Guinea-Bissau
+shweal_z_PY,Net personal wealth,Top 1% | share | adults | equal split,Paraguay
+shweal_z_CW,Net personal wealth,Top 1% | share | adults | equal split,Curacao
+shweal_z_US-FL,Net personal wealth,Top 1% | share | adults | equal split,Florida
+shweal_z_OI-MER,Net personal wealth,Top 1% | share | adults | equal split,Other South & Southeast Asia (MER)
+shweal_z_NL,Net personal wealth,Top 1% | share | adults | equal split,Netherlands
+shweal_z_OA-MER,Net personal wealth,Top 1% | share | adults | equal split,Other Russia & Central Asia (MER)
+shweal_z_GH,Net personal wealth,Top 1% | share | adults | equal split,Ghana
+shweal_z_TG,Net personal wealth,Top 1% | share | adults | equal split,Togo
+shweal_z_US-KS,Net personal wealth,Top 1% | share | adults | equal split,Kansas
+shweal_z_LK,Net personal wealth,Top 1% | share | adults | equal split,Sri Lanka
+shweal_z_NI,Net personal wealth,Top 1% | share | adults | equal split,Nicaragua
+shweal_z_YE,Net personal wealth,Top 1% | share | adults | equal split,Yemen
+shweal_z_GM,Net personal wealth,Top 1% | share | adults | equal split,Gambia
+shweal_z_US-NJ,Net personal wealth,Top 1% | share | adults | equal split,New Jersey
+shweal_z_US-WA,Net personal wealth,Top 1% | share | adults | equal split,Washington
+shweal_z_US-AR,Net personal wealth,Top 1% | share | adults | equal split,Arkansas
+shweal_z_US,Net personal wealth,Top 1% | share | adults | equal split,USA
+shweal_z_TD,Net personal wealth,Top 1% | share | adults | equal split,Chad
+shweal_z_ZW,Net personal wealth,Top 1% | share | adults | equal split,Zimbabwe
+shweal_z_SC,Net personal wealth,Top 1% | share | adults | equal split,Seychelles
+shweal_z_RO,Net personal wealth,Top 1% | share | adults | equal split,Romania
+shweal_z_BZ,Net personal wealth,Top 1% | share | adults | equal split,Belize
+shweal_z_XL-PPP,Net personal wealth,Top 1% | share | adults | equal split,Latin America (PPP)
+shweal_z_BF,Net personal wealth,Top 1% | share | adults | equal split,Burkina Faso
+shweal_z_WO-MER,Net personal wealth,Top 1% | share | adults | equal split,World (MER)
+shweal_z_MV,Net personal wealth,Top 1% | share | adults | equal split,Maldives
+shweal_z_US-CA,Net personal wealth,Top 1% | share | adults | equal split,California
+shweal_z_ML,Net personal wealth,Top 1% | share | adults | equal split,Mali
+shweal_z_HK,Net personal wealth,Top 1% | share | adults | equal split,Hong Kong
+shweal_z_NZ,Net personal wealth,Top 1% | share | adults | equal split,New Zealand
+shweal_z_BI,Net personal wealth,Top 1% | share | adults | equal split,Burundi
+shweal_z_NO,Net personal wealth,Top 1% | share | adults | equal split,Norway
+shweal_z_DM,Net personal wealth,Top 1% | share | adults | equal split,Dominica
+shweal_z_US-MT,Net personal wealth,Top 1% | share | adults | equal split,Montana
+shweal_z_LR,Net personal wealth,Top 1% | share | adults | equal split,Liberia
+shweal_z_PE,Net personal wealth,Top 1% | share | adults | equal split,Peru
+shweal_z_XS-MER,Net personal wealth,Top 1% | share | adults | equal split,South & Southeast Asia (MER)
+shweal_z_BJ,Net personal wealth,Top 1% | share | adults | equal split,Benin
+shweal_z_GD,Net personal wealth,Top 1% | share | adults | equal split,Grenada
+shweal_z_OD-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other Latin America (PPP)
+shweal_z_TZ,Net personal wealth,Top 1% | share | adults | equal split,Tanzania
+shweal_z_MD,Net personal wealth,Top 1% | share | adults | equal split,Moldova
+shweal_z_CF,Net personal wealth,Top 1% | share | adults | equal split,Central African Republic
+shweal_z_BD,Net personal wealth,Top 1% | share | adults | equal split,Bangladesh
+shweal_z_NR,Net personal wealth,Top 1% | share | adults | equal split,Nauru
+shweal_z_CL,Net personal wealth,Top 1% | share | adults | equal split,Chile
+shweal_z_LU,Net personal wealth,Top 1% | share | adults | equal split,Luxembourg
+shweal_z_US-WV,Net personal wealth,Top 1% | share | adults | equal split,West Virginia
+shweal_z_CO,Net personal wealth,Top 1% | share | adults | equal split,Colombia
+shweal_z_MK,Net personal wealth,Top 1% | share | adults | equal split,North Macedonia
+shweal_z_US-OK,Net personal wealth,Top 1% | share | adults | equal split,Oklahoma
+shweal_z_AD,Net personal wealth,Top 1% | share | adults | equal split,Andorra
+shweal_z_BB,Net personal wealth,Top 1% | share | adults | equal split,Barbados
+shweal_z_XS-PPP,Net personal wealth,Top 1% | share | adults | equal split,South & Southeast Asia (PPP)
+shweal_z_US-UT,Net personal wealth,Top 1% | share | adults | equal split,Utah
+shweal_z_SB,Net personal wealth,Top 1% | share | adults | equal split,Solomon Islands
+shweal_z_MS,Net personal wealth,Top 1% | share | adults | equal split,Montserrat
+shweal_z_TM,Net personal wealth,Top 1% | share | adults | equal split,Turkmenistan
+shweal_z_TH,Net personal wealth,Top 1% | share | adults | equal split,Thailand
+shweal_z_EC,Net personal wealth,Top 1% | share | adults | equal split,Ecuador
+shweal_z_GB,Net personal wealth,Top 1% | share | adults | equal split,United Kingdom
+shweal_z_US-VA,Net personal wealth,Top 1% | share | adults | equal split,Virginia
+shweal_z_IL,Net personal wealth,Top 1% | share | adults | equal split,Israel
+shweal_z_TW,Net personal wealth,Top 1% | share | adults | equal split,Taiwan
+shweal_z_SI,Net personal wealth,Top 1% | share | adults | equal split,Slovenia
+shweal_z_UA,Net personal wealth,Top 1% | share | adults | equal split,Ukraine
+shweal_z_TR,Net personal wealth,Top 1% | share | adults | equal split,Turkey
+shweal_z_GY,Net personal wealth,Top 1% | share | adults | equal split,Guyana
+shweal_z_RS,Net personal wealth,Top 1% | share | adults | equal split,Serbia
+shweal_z_BN,Net personal wealth,Top 1% | share | adults | equal split,Brunei Darussalam
+shweal_z_VN,Net personal wealth,Top 1% | share | adults | equal split,Viet Nam
+shweal_z_CU,Net personal wealth,Top 1% | share | adults | equal split,Cuba
+shweal_z_QA,Net personal wealth,Top 1% | share | adults | equal split,Qatar
+shweal_z_DE-BD,Net personal wealth,Top 1% | share | adults | equal split,Baden
+shweal_z_SZ,Net personal wealth,Top 1% | share | adults | equal split,Swaziland
+shweal_z_MM,Net personal wealth,Top 1% | share | adults | equal split,Myanmar
+shweal_z_US-LA,Net personal wealth,Top 1% | share | adults | equal split,Louisiana
+shweal_z_CV,Net personal wealth,Top 1% | share | adults | equal split,Cabo Verde
+shweal_z_DJ,Net personal wealth,Top 1% | share | adults | equal split,Djibouti
+shweal_z_NC,Net personal wealth,Top 1% | share | adults | equal split,New Caledonia
+shweal_z_SM,Net personal wealth,Top 1% | share | adults | equal split,San Marino
+shweal_z_XF-MER,Net personal wealth,Top 1% | share | adults | equal split,Sub-Saharan Africa (MER)
+shweal_z_FJ,Net personal wealth,Top 1% | share | adults | equal split,Fiji
+shweal_z_DE-BY,Net personal wealth,Top 1% | share | adults | equal split,Bavaria
+shweal_z_QL-MER,Net personal wealth,Top 1% | share | adults | equal split,East Asia (MER)
+shweal_z_DE-SN,Net personal wealth,Top 1% | share | adults | equal split,Saxony
+shweal_z_IR,Net personal wealth,Top 1% | share | adults | equal split,Iran
+shweal_z_PT,Net personal wealth,Top 1% | share | adults | equal split,Portugal
+shweal_z_US-IL,Net personal wealth,Top 1% | share | adults | equal split,Illinois
+shweal_z_TL,Net personal wealth,Top 1% | share | adults | equal split,Timor-Leste
+shweal_z_XN-PPP,Net personal wealth,Top 1% | share | adults | equal split,MENA (PPP)
+shweal_z_XB-MER,Net personal wealth,Top 1% | share | adults | equal split,North America & Oceania (MER)
+shweal_z_SE,Net personal wealth,Top 1% | share | adults | equal split,Sweden
+shweal_z_XR-PPP,Net personal wealth,Top 1% | share | adults | equal split,Russia & Central Asia (PPP)
+shweal_z_LA,Net personal wealth,Top 1% | share | adults | equal split,Lao PDR
+shweal_z_SL,Net personal wealth,Top 1% | share | adults | equal split,Sierra Leone
+shweal_z_OK-MER,Net personal wealth,Top 1% | share | adults | equal split,Other North America (MER)
+shweal_z_US-MN,Net personal wealth,Top 1% | share | adults | equal split,Minnesota
+shweal_z_MY,Net personal wealth,Top 1% | share | adults | equal split,Malaysia
+shweal_z_TC,Net personal wealth,Top 1% | share | adults | equal split,Turks and Caicos Islands
+shweal_z_DE-PR,Net personal wealth,Top 1% | share | adults | equal split,Prussia
+shweal_z_JM,Net personal wealth,Top 1% | share | adults | equal split,Jamaica
+shweal_z_NE,Net personal wealth,Top 1% | share | adults | equal split,Niger
+shweal_z_XR-MER,Net personal wealth,Top 1% | share | adults | equal split,Russia & Central Asia (MER)
+shweal_z_AL,Net personal wealth,Top 1% | share | adults | equal split,Albania
+shweal_z_KZ,Net personal wealth,Top 1% | share | adults | equal split,Kazakhstan
+shweal_z_US-CO,Net personal wealth,Top 1% | share | adults | equal split,Colorado
+shweal_z_US-ID,Net personal wealth,Top 1% | share | adults | equal split,Idaho
+shweal_z_PH,Net personal wealth,Top 1% | share | adults | equal split,Philippines
+shweal_z_DE-HB,Net personal wealth,Top 1% | share | adults | equal split,Bremen
+shweal_z_FR,Net personal wealth,Top 1% | share | adults | equal split,France
+shweal_z_IQ,Net personal wealth,Top 1% | share | adults | equal split,Iraq
+shweal_z_OM,Net personal wealth,Top 1% | share | adults | equal split,Oman
+shweal_z_VU,Net personal wealth,Top 1% | share | adults | equal split,Vanuatu
+shweal_z_KP,Net personal wealth,Top 1% | share | adults | equal split,North Korea
+shweal_z_XN-MER,Net personal wealth,Top 1% | share | adults | equal split,MENA (MER)
+shweal_z_US-MS,Net personal wealth,Top 1% | share | adults | equal split,Mississippi
+shweal_z_XL-MER,Net personal wealth,Top 1% | share | adults | equal split,Latin America (MER)
+shweal_z_LY,Net personal wealth,Top 1% | share | adults | equal split,Libya
+shweal_z_CY,Net personal wealth,Top 1% | share | adults | equal split,Cyprus
+shweal_z_US-WY,Net personal wealth,Top 1% | share | adults | equal split,Wyoming
+shweal_z_AR,Net personal wealth,Top 1% | share | adults | equal split,Argentina
+shweal_z_JE,Net personal wealth,Top 1% | share | adults | equal split,Jersey
+shweal_z_OJ-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other Sub-Saharan Africa (PPP)
+shweal_z_BR,Net personal wealth,Top 1% | share | adults | equal split,Brazil
+shweal_z_SX,Net personal wealth,Top 1% | share | adults | equal split,Sint Maarten (Dutch part)
+shweal_z_PK,Net personal wealth,Top 1% | share | adults | equal split,Pakistan
+shweal_z_GG,Net personal wealth,Top 1% | share | adults | equal split,Guernsey
+shweal_z_KN,Net personal wealth,Top 1% | share | adults | equal split,Saint Kitts and Nevis
+shweal_z_AO,Net personal wealth,Top 1% | share | adults | equal split,Angola
+shweal_z_US-SC,Net personal wealth,Top 1% | share | adults | equal split,South Carolina
+shweal_z_PF,Net personal wealth,Top 1% | share | adults | equal split,French Polynesia
+shweal_z_FI,Net personal wealth,Top 1% | share | adults | equal split,Finland
+shweal_z_TN,Net personal wealth,Top 1% | share | adults | equal split,Tunisia
+shweal_z_SD,Net personal wealth,Top 1% | share | adults | equal split,Sudan
+shweal_z_US-DE,Net personal wealth,Top 1% | share | adults | equal split,Delaware
+shweal_z_LV,Net personal wealth,Top 1% | share | adults | equal split,Latvia
+shweal_z_MX,Net personal wealth,Top 1% | share | adults | equal split,Mexico
+shweal_z_KM,Net personal wealth,Top 1% | share | adults | equal split,Comoros
+shweal_z_IS,Net personal wealth,Top 1% | share | adults | equal split,Iceland
+shweal_z_QP-MER,Net personal wealth,Top 1% | share | adults | equal split,North America (MER)
+shweal_z_US-WI,Net personal wealth,Top 1% | share | adults | equal split,Wisconsin
+shweal_z_CZ,Net personal wealth,Top 1% | share | adults | equal split,Czech Republic
+shweal_z_BW,Net personal wealth,Top 1% | share | adults | equal split,Botswana
+shweal_z_KY,Net personal wealth,Top 1% | share | adults | equal split,Cayman Islands
+shweal_z_GE,Net personal wealth,Top 1% | share | adults | equal split,Georgia
+shweal_z_MA,Net personal wealth,Top 1% | share | adults | equal split,Morocco
+shweal_z_KG,Net personal wealth,Top 1% | share | adults | equal split,Kyrgyzstan
+shweal_z_VE,Net personal wealth,Top 1% | share | adults | equal split,Venezuela
+shweal_z_FM,Net personal wealth,Top 1% | share | adults | equal split,Micronesia
+shweal_z_AM,Net personal wealth,Top 1% | share | adults | equal split,Armenia
+shweal_z_AU,Net personal wealth,Top 1% | share | adults | equal split,Australia
+shweal_z_CG,Net personal wealth,Top 1% | share | adults | equal split,Congo
+shweal_z_BE,Net personal wealth,Top 1% | share | adults | equal split,Belgium
+shweal_z_US-NH,Net personal wealth,Top 1% | share | adults | equal split,New Hampshire
+shweal_z_OH-MER,Net personal wealth,Top 1% | share | adults | equal split,Other North America & Oceania (MER)
+shweal_z_SG,Net personal wealth,Top 1% | share | adults | equal split,Singapore
+shweal_z_MO,Net personal wealth,Top 1% | share | adults | equal split,Macao
+shweal_z_DK,Net personal wealth,Top 1% | share | adults | equal split,Denmark
+shweal_z_GQ,Net personal wealth,Top 1% | share | adults | equal split,Equatorial Guinea
+shweal_z_SN,Net personal wealth,Top 1% | share | adults | equal split,Senegal
+shweal_z_AI,Net personal wealth,Top 1% | share | adults | equal split,Anguilla
+shweal_z_MG,Net personal wealth,Top 1% | share | adults | equal split,Madagascar
+shweal_z_CD,Net personal wealth,Top 1% | share | adults | equal split,DR Congo
+shweal_z_PR,Net personal wealth,Top 1% | share | adults | equal split,Puerto Rico
+shweal_z_PL,Net personal wealth,Top 1% | share | adults | equal split,Poland
+shweal_z_EE,Net personal wealth,Top 1% | share | adults | equal split,Estonia
+shweal_z_XF-PPP,Net personal wealth,Top 1% | share | adults | equal split,Sub-Saharan Africa (PPP)
+shweal_z_OC-PPP,Net personal wealth,Top 1% | share | adults | equal split,Other Western Europe (PPP)
+shweal_z_PG,Net personal wealth,Top 1% | share | adults | equal split,Papua New Guinea
+shweal_z_QF-MER,Net personal wealth,Top 1% | share | adults | equal split,Oceania (MER)
+shweal_z_ID,Net personal wealth,Top 1% | share | adults | equal split,Indonesia

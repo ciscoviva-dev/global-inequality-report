@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  dbt:
+    build: .
+    volumes:
+      - .:/usr/app
+    command: ["dbt", "run", "--profiles-dir", "."]

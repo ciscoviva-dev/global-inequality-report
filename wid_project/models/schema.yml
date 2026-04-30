@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: stg_wid_raw
+    description: "Raw global data stream from WID CSV dump"
+  - name: stg_wid_countries
+    description: "Mapping of country codes to names and continents"
+  - name: fct_inequality_metrics
+    description: "Core fact table with decadal smoothing for the top and bottom percentiles."

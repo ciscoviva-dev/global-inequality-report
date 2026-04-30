@@ -1,0 +1,12 @@
+# Sources
+/_SOURCES/
+/.venv/
+/.next/
+/node_modules/
+/wid_project/target/
+/wid_project/logs/
+/wid_project/dbt_packages/
+
+# System
+.DS_Store
+*.log
