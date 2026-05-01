@@ -1,11 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  serverExternalPackages: ['duckdb'],
-  outputFileTracingIncludes: {
-    '/': ['./data/wid.duckdb'],
-    '/summary': ['./data/wid.duckdb'],
-  },
+  // No native database dependencies at runtime - data is pre-baked to JSON at build time
 };
 
 export default nextConfig;

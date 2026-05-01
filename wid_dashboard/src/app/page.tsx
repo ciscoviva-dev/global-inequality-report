@@ -1,5 +1,5 @@
 export const dynamic = 'force-dynamic';
-import { query } from '@/lib/db';
+import { getGlobalData, getGapData } from '@/lib/db';
 import ChartComponent from '@/components/ChartComponent';
 import BarChartComponent from '@/components/BarChartComponent';
 import StructuralEvolutionComponent from '@/components/StructuralEvolutionComponent';
@@ -7,58 +7,17 @@ import GlobalMapComponent from '@/components/GlobalMapComponent';
 import Link from 'next/link';
 
 export default async function Home() {
-  // Legacy filtering for the original trend charts to keep them readable
-  const majorRegions = `(
-    'World (MER)', 
-    'Europe (MER)', 
-    'North America (MER)', 
-    'Latin America (MER)', 
-    'East Asia (MER)', 
-    'South & Southeast Asia (MER)', 
-    'MENA (MER)', 
-    'Sub-Saharan Africa (MER)', 
-    'Russia & Central Asia (MER)'
-  )`;
+  const globalData = getGlobalData();
+  const gapData = getGapData();
 
-  // 1. Unified Historical Data for All Metrics (Income/Wealth x Percentiles)
-  // We fetch EVERYTHING for the map
-  const globalData = await query(`
-    SELECT 
-        year, 
-        region,
-        country_code,
-        percentile,
-        category,
-        value 
-    FROM main.fct_inequality_metrics 
-    ORDER BY year ASC
-  `);
-
-  // 2. Filter down for the legacy line charts
-  const regionalData = globalData.filter((d: any) => 
-    [
-      'World (MER)', 'Europe (MER)', 'North America (MER)', 
-      'Latin America (MER)', 'East Asia (MER)', 'South & Southeast Asia (MER)', 
-      'MENA (MER)', 'Sub-Saharan Africa (MER)', 'Russia & Central Asia (MER)'
-    ].includes(d.region)
-  );
-
+  // Filter down for the legacy line charts
+  const majorRegionsList = [
+    'World (MER)', 'Europe (MER)', 'North America (MER)',
+    'Latin America (MER)', 'East Asia (MER)', 'South & Southeast Asia (MER)',
+    'MENA (MER)', 'Sub-Saharan Africa (MER)', 'Russia & Central Asia (MER)'
+  ];
+  const regionalData = globalData.filter((d: any) => majorRegionsList.includes(d.region));
   const incomeData = regionalData.filter((d: any) => d.category === 'Pre-tax national income' && (d.percentile === 'p99p100' || d.percentile === 'p90p100' || d.percentile === 'p0p50'));
-  const wealthData = regionalData.filter((d: any) => d.category === 'Net personal wealth' && (d.percentile === 'p99p100' || d.percentile === 'p90p100' || d.percentile === 'p0p50'));
-
-  // 3. Raw Gap Data for the dumbbell chart
-  const gapData = await query(`
-    SELECT 
-        year,
-        region, 
-        percentile,
-        income_share,
-        wealth_share,
-        inequality_gap
-    FROM main.income_vs_wealth_inequality 
-    WHERE region IN ${majorRegions}
-    ORDER BY year ASC
-  `);
 
   return (
     <main className="relative flex-1 max-w-7xl mx-auto w-full px-6 py-24 space-y-32 text-foreground">
