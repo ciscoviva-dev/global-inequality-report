@@ -4,14 +4,28 @@ import fs from 'fs';
 // Use dynamic require to bypass Turbopack/Webpack analysis of the native module
 const duckdb = eval('require')('duckdb');
 
-// Path resolution for Vercel environments
-const dbPath = path.join(process.cwd(), 'data/wid.duckdb');
+// Hunt for the database in common Vercel locations
+const candidatePaths = [
+  path.join(process.cwd(), 'data/wid.duckdb'),
+  path.join(process.cwd(), 'wid_dashboard/data/wid.duckdb'),
+  path.resolve(__dirname, '../../data/wid.duckdb'),
+  path.resolve(__dirname, '../../../data/wid.duckdb'),
+];
 
-console.log('--- DATABASE DEBUG ---');
-console.log('Looking for database at:', dbPath);
-console.log('Current working directory:', process.cwd());
-console.log('File exists:', fs.existsSync(dbPath));
-console.log('-----------------------');
+let dbPath = '';
+console.log('--- DATABASE HUNT ---');
+for (const p of candidatePaths) {
+  const exists = fs.existsSync(p);
+  console.log(`Checking ${p}: ${exists ? 'FOUND ✅' : 'MISSING ❌'}`);
+  if (exists && !dbPath) dbPath = p;
+}
+
+if (!dbPath) {
+  console.error('CRITICAL: Database not found in any candidate path!');
+  // Fallback to the most likely one to prevent total crash during init
+  dbPath = candidatePaths[0];
+}
+console.log('----------------------');
 
 const db = new duckdb.Database(dbPath, duckdb.OPEN_READONLY);
 const con = db.connect();
