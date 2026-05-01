@@ -1,8 +1,8 @@
 import path from 'path';
 import fs from 'fs';
 
-// Use dynamic require to bypass Turbopack/Webpack analysis of the native module
-const duckdb = eval('require')('duckdb');
+// Use standard require so Vercel's tracing system can see the dependency
+const duckdb = require('duckdb');
 
 // Hunt for the database in common Vercel locations
 const candidatePaths = [
