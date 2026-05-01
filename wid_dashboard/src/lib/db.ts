@@ -8,8 +8,8 @@ let connection: any = null;
 function getDb() {
   if (dbInstance) return { db: dbInstance, con: connection };
 
-  // Use a stealth require to bypass Turbopack's buggy static analysis
-  const duckdb = require(['du', 'ckdb'].join(''));
+  // Use turbopackIgnore to stop the builder from crashing on DuckDB's internal metadata
+  const duckdb = require(/* turbopackIgnore: true */ 'duckdb');
 
   // Hunt for the database in common Vercel locations
   const candidatePaths = [
