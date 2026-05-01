@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { query } from '@/lib/db';
 import SummaryTableComponent from '@/components/SummaryTableComponent';
 import Link from 'next/link';
