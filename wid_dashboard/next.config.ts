@@ -2,11 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   serverExternalPackages: ['duckdb'],
-  experimental: {
-    outputFileTracingIncludes: {
-      '/': ['./data/wid.duckdb'],
-      '/summary': ['./data/wid.duckdb'],
-    },
+  outputFileTracingIncludes: {
+    '/': ['./data/wid.duckdb'],
+    '/summary': ['./data/wid.duckdb'],
   },
 };
 
