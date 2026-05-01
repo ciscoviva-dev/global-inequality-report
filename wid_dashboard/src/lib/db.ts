@@ -1,8 +1,8 @@
 import path from 'path';
 import fs from 'fs';
 
-// Use standard require so Vercel's tracing system can see the dependency
-const duckdb = require('duckdb');
+// Use a stealth require to bypass Turbopack's buggy static analysis
+const duckdb = require(['du', 'ckdb'].join(''));
 
 // Hunt for the database in common Vercel locations
 const candidatePaths = [
