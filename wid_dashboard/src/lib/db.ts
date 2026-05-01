@@ -1,9 +1,17 @@
 import path from 'path';
+import fs from 'fs';
 
 // Use dynamic require to bypass Turbopack/Webpack analysis of the native module
 const duckdb = eval('require')('duckdb');
 
+// Path resolution for Vercel environments
 const dbPath = path.join(process.cwd(), 'data/wid.duckdb');
+
+console.log('--- DATABASE DEBUG ---');
+console.log('Looking for database at:', dbPath);
+console.log('Current working directory:', process.cwd());
+console.log('File exists:', fs.existsSync(dbPath));
+console.log('-----------------------');
 
 const db = new duckdb.Database(dbPath, duckdb.OPEN_READONLY);
 const con = db.connect();
